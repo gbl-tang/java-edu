@@ -1,9 +1,8 @@
 package lambda;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
-public class lambdaDemo5 {
+public class lambdaTest1 {
     /*定义数组并存储一些女朋友对象,利用Arrays中的Sort方法进行排序
         要求1:属性有姓名,年龄,身高
         要求2:按照年龄的大小进行排序,年龄一样,按身高排序,身高一样按照姓名的字母进行排序.
